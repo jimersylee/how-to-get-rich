@@ -1,6 +1,8 @@
 # How to Get Rich
 # **超过4万转发，12万赞的Twitter 风暴《如何致富》 译文连载**
 
+[在线阅读地址](https://jimersylee.github.io/how-to-get-rich/#/)
+
 **Naval Ravikant** . 美国印裔移民，硅谷著名的天使投资人，国外最大的股权众筹平台 AngelList 的联合创始人。成功投资过10个以上的独角兽企业，包括国内熟知的Twitter和Uber。
 
 他的 Twitter 置顶推文是 How to Get Rich (without getting lucky)/如何致富（不依赖运气），三十多条言简意赅的推文获得了超过4万次的转发，12万赞。被称为一次推特风暴（tweetstorm）。后来他和 AngelList 的另外一个创始人 Nivi 做了一期长达3个半小时的播客来展开这30多条推文背后的思考（可以在Apple podcasts 中收听）。并把文字版放到了个人网站上：**https://nav.al/rich#**
